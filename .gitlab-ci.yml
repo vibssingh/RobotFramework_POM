@@ -1,7 +1,7 @@
 stages:
   - test
 
-image: marketsquare/robotframework-browser
+image: ppandiyan/robotframework
 
 run-tests:
   stage: test
