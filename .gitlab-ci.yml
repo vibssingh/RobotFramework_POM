@@ -1,0 +1,13 @@
+stages:
+  - test
+
+image: marketsquare/robotframework-browser
+
+run-tests:
+  stage: test
+  script:
+    - robot .
+  artifacts:
+    paths:
+      - reports
+
