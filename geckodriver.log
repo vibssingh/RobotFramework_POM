@@ -1,0 +1,410 @@
+1681229728830	geckodriver	INFO	Listening on 127.0.0.1:65095
+1681229729337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65096" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofileOlKSFJ"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681229729734	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681229729740	Marionette	INFO	Listening on port 65118
+Read port: 65118
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - file:///C:/Program Files/Snow Software/Inventory/Agent/FFCloudmetering.xpi
+WebDriver BiDi listening on ws://127.0.0.1:65096
+1681229729934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofileOlKSFJ\\search.json.mozlz4", (void 0)))
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:65096/devtools/browser/eb0626c5-f560-47b8-8925-ff58fff45dad
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1681229735353	Marionette	INFO	Stopped listening on port 65118
+Dynamically enable window occlusion 1
+1681229736247	geckodriver	INFO	Listening on 127.0.0.1:65170
+1681229736768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofileryOk9d"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681229737092	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681229737096	Marionette	INFO	Listening on port 65178
+Read port: 65178
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - file:///C:/Program Files/Snow Software/Inventory/Agent/FFCloudmetering.xpi
+WebDriver BiDi listening on ws://127.0.0.1:65171
+1681229737280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofileryOk9d\\search.json.mozlz4", (void 0)))
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:65171/devtools/browser/b5a693f9-d028-4894-b274-ed4c04d23a9f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1681229742502	Marionette	INFO	Stopped listening on port 65178
+Dynamically enable window occlusion 1
+1681229743877	geckodriver	INFO	Listening on 127.0.0.1:65530
+1681229744375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofilelgAob4"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681229744745	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681229744751	Marionette	INFO	Listening on port 49777
+Read port: 49777
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - file:///C:/Program Files/Snow Software/Inventory/Agent/FFCloudmetering.xpi
+WebDriver BiDi listening on ws://127.0.0.1:65531
+1681229744981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofilelgAob4\\search.json.mozlz4", (void 0)))
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:65531/devtools/browser/0026eb6e-e7dc-406e-9469-d1367371c2fe
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1681229750728	Marionette	INFO	Stopped listening on port 49777
+Dynamically enable window occlusion 1
+1681229752029	geckodriver	INFO	Listening on 127.0.0.1:49831
+1681229752529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49832" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofilelfNhhn"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681229752840	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681229752844	Marionette	INFO	Listening on port 49839
+Read port: 49839
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - file:///C:/Program Files/Snow Software/Inventory/Agent/FFCloudmetering.xpi
+WebDriver BiDi listening on ws://127.0.0.1:49832
+1681229753036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofilelfNhhn\\search.json.mozlz4", (void 0)))
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:49832/devtools/browser/1fd3ebcc-6007-4712-a41e-ef0707dacf0e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1681229757942	Marionette	INFO	Stopped listening on port 49839
+Dynamically enable window occlusion 1
+1681229759090	geckodriver	INFO	Listening on 127.0.0.1:49887
+1681229759591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49888" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofileLscgeR"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681229759953	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681229759961	Marionette	INFO	Listening on port 49895
+Read port: 49895
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - file:///C:/Program Files/Snow Software/Inventory/Agent/FFCloudmetering.xpi
+WebDriver BiDi listening on ws://127.0.0.1:49888
+1681229760218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofileLscgeR\\search.json.mozlz4", (void 0)))
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:49888/devtools/browser/1a18d800-4b4e-4dc6-9adf-50945ca67b8b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1681229765160	Marionette	INFO	Stopped listening on port 49895
+Dynamically enable window occlusion 1
+1681229766509	geckodriver	INFO	Listening on 127.0.0.1:49935
+1681229767022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49936" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofileSYE8Q9"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681229767492	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681229767497	Marionette	INFO	Listening on port 49943
+Read port: 49943
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - file:///C:/Program Files/Snow Software/Inventory/Agent/FFCloudmetering.xpi
+WebDriver BiDi listening on ws://127.0.0.1:49936
+1681229767752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofileSYE8Q9\\search.json.mozlz4", (void 0)))
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:49936/devtools/browser/f403d4e1-38e0-4329-b7c8-95a534d44671
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1681229773502	Marionette	INFO	Stopped listening on port 49943
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1681230492937	geckodriver	INFO	Listening on 127.0.0.1:51684
+1681230493450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofileOj5zcU"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681230493770	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681230493774	Marionette	INFO	Listening on port 51690
+Read port: 51690
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - file:///C:/Program Files/Snow Software/Inventory/Agent/FFCloudmetering.xpi
+WebDriver BiDi listening on ws://127.0.0.1:51685
+1681230493944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofileOj5zcU\\search.json.mozlz4", (void 0)))
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:51685/devtools/browser/edab354b-3d2b-4dd2-b791-d0024ddfb79f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1681230500196	Marionette	INFO	Stopped listening on port 51690
+Dynamically enable window occlusion 1
+1681230501241	geckodriver	INFO	Listening on 127.0.0.1:51740
+1681230501748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51741" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofilengJJXn"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681230502060	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681230502066	Marionette	INFO	Listening on port 51750
+Read port: 51750
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - file:///C:/Program Files/Snow Software/Inventory/Agent/FFCloudmetering.xpi
+WebDriver BiDi listening on ws://127.0.0.1:51741
+1681230502250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofilengJJXn\\search.json.mozlz4", (void 0)))
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:51741/devtools/browser/f402c4eb-2ea1-43e4-b39c-ce17de33044f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1681230510753	Marionette	INFO	Stopped listening on port 51750
+Dynamically enable window occlusion 1
+1681230511968	geckodriver	INFO	Listening on 127.0.0.1:51807
+1681230512472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51808" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofileSUCCC1"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681230512809	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681230512815	Marionette	INFO	Listening on port 51815
+Read port: 51815
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - file:///C:/Program Files/Snow Software/Inventory/Agent/FFCloudmetering.xpi
+WebDriver BiDi listening on ws://127.0.0.1:51808
+1681230513036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofileSUCCC1\\search.json.mozlz4", (void 0)))
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:51808/devtools/browser/a6646798-90eb-47a5-9a86-8ed5d45d548a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1681230519106	Marionette	INFO	Stopped listening on port 51815
+Dynamically enable window occlusion 1
+1681230520309	geckodriver	INFO	Listening on 127.0.0.1:51869
+1681230520822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51870" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofileQ1LX4e"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681230521137	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681230521141	Marionette	INFO	Listening on port 51877
+Read port: 51877
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - file:///C:/Program Files/Snow Software/Inventory/Agent/FFCloudmetering.xpi
+WebDriver BiDi listening on ws://127.0.0.1:51870
+[Parent 20128, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:583
+1681230521339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofileQ1LX4e\\search.json.mozlz4", (void 0)))
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:51870/devtools/browser/dd9d1b72-10d9-417c-a272-220da4de3dc3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1681230525653	Marionette	INFO	Stopped listening on port 51877
+Dynamically enable window occlusion 1
+1681230526966	geckodriver	INFO	Listening on 127.0.0.1:51912
+1681230527466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51913" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofiletqB8mh"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681230527922	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681230527927	Marionette	INFO	Listening on port 51919
+Read port: 51919
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - file:///C:/Program Files/Snow Software/Inventory/Agent/FFCloudmetering.xpi
+WebDriver BiDi listening on ws://127.0.0.1:51913
+1681230528172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofiletqB8mh\\search.json.mozlz4", (void 0)))
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:51913/devtools/browser/11a5a2c4-7d7a-48e0-918e-a0a0788c235c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1681230533136	Marionette	INFO	Stopped listening on port 51919
+Dynamically enable window occlusion 1
+1681230534428	geckodriver	INFO	Listening on 127.0.0.1:52367
+1681230534932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52368" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofilenmV7TU"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681230535239	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681230535247	Marionette	INFO	Listening on port 52377
+Read port: 52377
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - file:///C:/Program Files/Snow Software/Inventory/Agent/FFCloudmetering.xpi
+WebDriver BiDi listening on ws://127.0.0.1:52368
+1681230535462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofilenmV7TU\\search.json.mozlz4", (void 0)))
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:52368/devtools/browser/11c28035-b7f4-4716-9210-a43b6ae54fe2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1681230542761	Marionette	INFO	Stopped listening on port 52377
+Dynamically enable window occlusion 1
+1681230790951	geckodriver	INFO	Listening on 127.0.0.1:53240
+1681230791473	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53241" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofileyga0aL"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681230792396	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681230792412	Marionette	INFO	Listening on port 53246
+Read port: 53246
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - file:///C:/Program Files/Snow Software/Inventory/Agent/FFCloudmetering.xpi
+WebDriver BiDi listening on ws://127.0.0.1:53241
+[Parent 18904, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:583
+1681230792849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofileyga0aL\\search.json.mozlz4", (void 0)))
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:53241/devtools/browser/f1c14860-fb25-48b3-bdec-267e7cf620fe
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1681230799873	Marionette	INFO	Stopped listening on port 53246
+Dynamically enable window occlusion 1
+1681230801419	geckodriver	INFO	Listening on 127.0.0.1:53399
+1681230801921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53400" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofileZkP7Iw"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681230802292	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681230802299	Marionette	INFO	Listening on port 53405
+Read port: 53405
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - file:///C:/Program Files/Snow Software/Inventory/Agent/FFCloudmetering.xpi
+WebDriver BiDi listening on ws://127.0.0.1:53400
+1681230802528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofileZkP7Iw\\search.json.mozlz4", (void 0)))
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:53400/devtools/browser/471e4dd1-e0b6-480e-bcc9-205a9616b496
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1681230808716	Marionette	INFO	Stopped listening on port 53405
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1681230810131	geckodriver	INFO	Listening on 127.0.0.1:53457
+1681230810643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53458" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofilehNTB1z"
+console.error: Policies.jsm: 
+  Invalid ExtensionSettings
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1681230811073	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1681230811079	Marionette	INFO	Listening on port 53468
+Read port: 53468
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - file:///C:/Program Files/Snow Software/Inventory/Agent/FFCloudmetering.xpi
+WebDriver BiDi listening on ws://127.0.0.1:53458
+[Parent 8104, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:583
+1681230811306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\WINDOWS\\SystemTemp\\rust_mozprofilehNTB1z\\search.json.mozlz4", (void 0)))
+console.error: Policies.jsm: 
+  Installation failed - ERROR_FILE_ACCESS - {url}
+DevTools listening on ws://127.0.0.1:53458/devtools/browser/1c830b2f-bc83-42df-9052-db6f4b77321a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1681230816609	Marionette	INFO	Stopped listening on port 53468
+Dynamically enable window occlusion 1
