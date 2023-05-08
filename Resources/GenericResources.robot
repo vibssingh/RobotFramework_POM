@@ -15,8 +15,7 @@ ${browser_name}      Chrome
 *** Keywords ***
 
 Open the Browser with URL
-    Create Webdriver    ${browser_name}  executable_path=/Vibha_Personal/RobotFramework_Demo/drivers/${browser_name}
-    Go To       ${url}
+    Open Browser   ${url}    headlesschrome
     Maximize Browser Window
     Set Selenium Implicit Wait    5
 
