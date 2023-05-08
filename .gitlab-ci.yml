@@ -1,0 +1,13 @@
+stages:
+  - test
+
+image: ppandiyan/robotframework
+
+run-tests:
+  stage: test
+  script:
+    - robot .
+  artifacts:
+    paths:
+      - reports
+
