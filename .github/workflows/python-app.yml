@@ -19,7 +19,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Robot Framework
-        uses: joonvena/robotframework-docker-action@v1.0
-      - run: robot --outputdir testOutput .
+        uses: joonvena/robotframework-docker-action@v1.0 
+       
       
     
