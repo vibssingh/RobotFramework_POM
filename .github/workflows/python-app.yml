@@ -11,9 +11,8 @@ on:
 
 
 jobs:
-  build:
-
-    robot_test:
+  
+  robot_test:
     runs-on: ubuntu-latest
     name: Run Robot Framework Tests
     steps:
