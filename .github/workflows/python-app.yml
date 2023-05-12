@@ -13,21 +13,14 @@ on:
 jobs:
   build:
 
+    robot_test:
     runs-on: ubuntu-latest
-
+    name: Run Robot Framework Tests
     steps:
-    - uses: actions/checkout@v3
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v3
-      with:
-        python-version: "3.10"
-
-    - name: Test with pytest
-      run: robot --outputdir testOutput .
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Robot Framework
+        uses: joonvena/robotframework-docker-action@v1.0
+      - run: robot --outputdir testOutput .
       
-    - name: Test Report
-      uses: actions/upload-artifact@v3
-      if: success() || failure()
-      with:
-          name: Test Report               # Name of the folder
-          path: testOutput           # Path to test report
+    
