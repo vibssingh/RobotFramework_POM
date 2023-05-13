@@ -17,11 +17,9 @@ jobs:
         - uses: actions/checkout@v2
         - name: Execute tests
           uses: joonvena/robotframework-docker-action@v1.0
-        - name: Upload test results
-          uses: actions/upload-artifact@v1
-          if: always()
           with:
-            name: reports
-            path: reports
+              robot_test_dir: TestCases
+        
+        
            
            
