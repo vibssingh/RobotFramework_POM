@@ -15,7 +15,7 @@ jobs:
         runs-on: ubuntu-latest
         steps:
         - uses: actions/checkout@v2
-        - name: Execute tests
+        - name: Execute TestCases
           uses: joonvena/robotframework-docker-action@v1.0
           with:
               robot_test_dir: TestCases
