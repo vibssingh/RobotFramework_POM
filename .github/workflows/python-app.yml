@@ -16,7 +16,7 @@ jobs:
         steps:
         - uses: actions/checkout@v2
         - name: Execute tests
-          uses: joonvena/robotframework-docker-action@v0.1
+          uses: joonvena/robotframework-docker-action@v1.0
           env:
             BROWSER: chrome
             ROBOT_TESTS_DIR: ${{ github.workspace }}/TestCases
