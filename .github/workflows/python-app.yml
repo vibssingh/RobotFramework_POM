@@ -18,7 +18,7 @@ jobs:
         - name: Execute TestCases
           uses: joonvena/robotframework-docker-action@v1.0
           with:
-              robot_test_dir: TestCases
+              robot_test_dir: Tests
         
         
            
